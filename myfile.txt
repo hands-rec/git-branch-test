@@ -1,3 +1,4 @@
 git command
 add
 commit
+pull
