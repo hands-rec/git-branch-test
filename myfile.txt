@@ -2,3 +2,4 @@ git command
 add
 commit
 pull
+add2
